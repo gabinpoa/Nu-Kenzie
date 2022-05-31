@@ -1,0 +1,29 @@
+.totalMoney {
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  width: 100%;
+  padding: 12px;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.totalMoney p {
+  margin: 6px 0;
+}
+.l-text {
+  font-size: 16px;
+  font-weight: 700;
+}
+.numValue {
+  text-align: end;
+  color: #fd377e;
+  font-size: 16px;
+  font-weight: 700;
+}
+.s-text {
+  font-size: 13px;
+  color: #5b6166;
+}
+.help-text {
+  margin-top: 12px;
+}
